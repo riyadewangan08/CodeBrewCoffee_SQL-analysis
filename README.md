@@ -2,7 +2,7 @@
 ## 📸 Expansion strategy analysis using SQL queries and business data.
 ![CODEBREWCOFFEE](https://github.com/riyadewangan08/CodeBrewCoffee_SQL-analysis/blob/85ec00195e22090e33d9965527ad555434c4cda9/codebrew_coffee_banner.png)
 
-## OBJECTIVE
+# OBJECTIVE
 The business aims to expand by opening three coffee shops in
 India's top three major cities. Since its launch in January 2023, the
 company has successfully sold its products online and received an
