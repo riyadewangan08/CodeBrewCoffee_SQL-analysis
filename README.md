@@ -1,4 +1,6 @@
 # CodeBrewCoffee_SQL-analysis
+## 📸 codebrew coffee expansion SQL project
+![Top Cities Chart]()
 
 
 
