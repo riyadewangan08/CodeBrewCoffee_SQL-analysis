@@ -1,10 +1,14 @@
 # CodeBrewCoffee_SQL-analysis
 ## 📸 codebrew coffee expansion SQL project
-![Top Cities Chart](https://github.com/riyadewangan08/CodeBrewCoffee_SQL-analysis/blob/85ec00195e22090e33d9965527ad555434c4cda9/codebrew_coffee_banner.png)
+![CODEBREWCOFFEE](https://github.com/riyadewangan08/CodeBrewCoffee_SQL-analysis/blob/85ec00195e22090e33d9965527ad555434c4cda9/codebrew_coffee_banner.png)
 
-
-
-
+## OBJECTIVE
+The business aims to expand by opening three coffee shops in
+India's top three major cities. Since its launch in January 2023, the
+company has successfully sold its products online and received an
+overwhelmingly positive response in several cities. As a data
+analyst, your task is to analyze the sales data and provide insights
+to recommend the top three cities for this expansion.
 
 
 
