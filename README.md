@@ -13,7 +13,7 @@ to recommend the top three cities for this expansion.
 
 
 ## KEY QUESTION
-1-Coffee Consumers Count
+# 1-Coffee Consumers Count
 
 How many people in each city are estimated to consume coffee, given that 25% of the population does?
 
